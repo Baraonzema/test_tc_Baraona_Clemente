@@ -1,11 +1,11 @@
-# Clemente Baraona
+ # Clemente Baraona
 
-##Profesor de diseño
+ ##Profesor de diseño
 
-Este es mi primer parrafo, se hace esto.
+ Este es mi primer parrafo, se hace esto.
 
-se hacer 
+ se hacer 
 
-*papas frita
-*completos
-*etc
+ *papas frita
+ *completos
+ *etc
